@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **pandas, tensorflow**
 
-- 👯 I’m looking to collaborate on **self aware ai**
+- 👯 I’m looking to collaborate on **AI models and algorithsm**
 
 - 📫 How to reach me **peterPP5789@gmail.com**
 
-- ⚡ Fun fact **I am so goated**
+- ⚡ Fun fact **I am mentally sane and can be trusted with a weapon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
